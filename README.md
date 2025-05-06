@@ -28,14 +28,14 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
 
 ---
 
-## Power BI Projects
+## Power BI Project
 
 - Flight Analysis – Decomposition Tree  
   Explored flights by airline and destination using drill-downs.  
   [View Project](./PowerBI/Flight_Analysis)
 ---
 
-## Excel Projects
+## Excel Project
 
 - KPMG Data Analysis  
   Analyzed client, transaction, and demographic data using Excel to generate business insights.  
