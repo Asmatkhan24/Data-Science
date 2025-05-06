@@ -30,34 +30,16 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
 
 ## Power BI Projects
 
-- *Walmart Sales Dashboard*  
-  Visualized product-wise sales, payment modes, and customer segments.  
-  [View Project](./PowerBI/Walmart_Sales_Dashboard)
-
-- *Flight Analysis – Decomposition Tree*  
+- Flight Analysis – Decomposition Tree  
   Explored flights by airline and destination using drill-downs.  
   [View Project](./PowerBI/Flight_Analysis)
-
-- *Top 5 Institutions by World Rank*  
-  Ranked top universities with dynamic filters.  
-  [View Project](./PowerBI/Top5_Institutions)
-
-- *OECD vs Country Expenditure Comparison*  
-  Compared expenditures of countries with OECD average.  
-  [View Project](./PowerBI/OECD_Comparison)
-
 ---
 
 ## Excel Projects
 
-- *Hire Date Filtering*  
-  Highlighted employee rows based on hiring year using Excel logic.  
-  [View Project](./Excel/Hire_Date_Filtering)
-
-- *Transaction Revenue Analysis*  
-  Calculated total revenue and number of purchases using formulas.  
-  [View Project](./Excel/Revenue_Analysis)
-
+- KPMG Data Analysis  
+  Analyzed client, transaction, and demographic data using Excel to generate business insights.  
+  [View Project](./Excel/KPMG_Data_Analysis)
 ---
 
 ## SQL Project
