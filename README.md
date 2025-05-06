@@ -14,6 +14,10 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
   Classification model to identify churn-prone customers based on service and demographic data.  
   [View Project](./Customer_Churn_Prediction)
 
+- Electric Vehicle Data Analysis  
+  Analyzed EV datasets to uncover trends in range, consumption, and pricing. Included hypothesis testing and actionable insights.  
+  [View Project](./Electric_Vehicle_Analysis)
+
 - *Sentiment Analysis (IMDb Reviews)*  
   NLP model to classify reviews as positive or negative using TF-IDF and LSTM.  
   [View Project](./Sentiment_Analysis)
