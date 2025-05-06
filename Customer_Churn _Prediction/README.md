@@ -2,7 +2,7 @@
 
 A classification model to predict which customers are likely to stop using a service, based on demographic and account data.
 
-## Project Goal
+## Project Goals
 - Identify churn-prone customers
 - Analyze key churn indicators
 - Improve customer retention strategy
