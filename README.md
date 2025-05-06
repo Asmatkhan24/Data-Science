@@ -32,21 +32,21 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
 
 - Flight Analysis – Decomposition Tree  
   Explored flights by airline and destination using drill-downs.  
-  [View Project](./PowerBI/Flight_Analysis)
+  [View Project](./Flight_Analysis)
 ---
 
 ## Excel Project
 
 - KPMG Data Analysis  
   Analyzed client, transaction, and demographic data using Excel to generate business insights.  
-  [View Project](./Excel/KPMG_Data_Analysis)
+  [View Project](./KPMG_Data_Analysis)
 ---
 
 ## SQL Project
 
 - *Hotel Booking Analysis*  
   Joined multiple tables to analyze room usage and booking trends.  
-  [View Project](./SQL/Hotel_Booking_Analysis)
+  [View Project](./Hotel_Booking_Analysis)
 
 ---
 
