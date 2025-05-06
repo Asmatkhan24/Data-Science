@@ -22,9 +22,9 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
   NLP model to classify reviews as positive or negative using TF-IDF and LSTM.  
   [View Project](./Sentiment_Analysis)
 
-- *Topic Modeling*  
-  Extracted hidden topics from text documents using LDA and NMF.  
-  [View Project](./Topic_Modeling)
+- News Article Classification  
+  Text classification model trained on labeled articles to predict categories like sports, politics, and tech.  
+  [View Project](./News_Article_Classification)
 
 - *Image Classification (CIFAR-10)*  
   Used CNN to classify images into 10 categories.  
