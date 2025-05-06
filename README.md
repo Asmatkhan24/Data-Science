@@ -26,10 +26,6 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
   Text classification model trained on labeled articles to predict categories like sports, politics, and tech.  
   [View Project](./News_Article_Classification)
 
-- *Image Classification (CIFAR-10)*  
-  Used CNN to classify images into 10 categories.  
-  [View Project](./Image_Classification)
-
 ---
 
 ## Power BI Project
