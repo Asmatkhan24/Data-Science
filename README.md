@@ -12,7 +12,7 @@ Welcome to my Data Science portfolio! This repository showcases a collection of 
 
 - *Customer Churn Prediction*  
   Classification model to identify churn-prone customers based on service and demographic data.  
-  [View Project](./Customer_Churn)
+  [View Project](./Customer_Churn_Prediction)
 
 - *Sentiment Analysis (IMDb Reviews)*  
   NLP model to classify reviews as positive or negative using TF-IDF and LSTM.  
